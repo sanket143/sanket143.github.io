@@ -1,0 +1,27 @@
+.recent-github-project-logo {
+  background-color: white;
+  color: blue;
+  float: left;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  width: 17px;
+  height: 17px;
+  border-radius: 50%;
+  font-size: 15px;
+}
+
+.recent-github-project-title {
+  padding: 10px;
+  float: left;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.recent-github-project-content {
+  clear: both;
+  padding: 10px 0;
+  font-size: 13px;
+  font-weight: bold;
+}
