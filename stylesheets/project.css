@@ -23,5 +23,14 @@
   clear: both;
   padding: 10px 0;
   font-size: 13px;
-  font-weight: bold;
+  border-bottom: 1px double white;
+  margin-bottom: 15px;
+}
+
+.recent-github-project-title > a {
+  color: white;
+}
+
+.recent-github-project-title > a:hover {
+  text-decoration: underline;
 }
