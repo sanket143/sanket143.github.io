@@ -21,4 +21,13 @@ What do you think about the best programmer in the Universe would have been. Wha
 Well in future somebody is gonna figure out to program each Atom movement. It seems like this is an ultimatum to do anything.
 How about a programmer who could manipulate movement of an electron. Lets meet the hardest of them, the one who could program the movement of Neutron and Proton.
 
-Let me take you to that world. Just imagine as you go to this text and note question that arises during in this world.
+Let me take you to that world. Just imagine as you go to this text and note questions that arises in this world.
+
+You are in a Chemistry Laboratory with other chemists. They all are busy doing their observation. You're new here and you've nothing to do. You leave the lab and walk outside. As you're walking by the labs, you're observing that everyone is so busy doing things you couldn't understand, they are so lost in their work that they don't know if anybody except themselve even exist.
+
+This look like so strange to you. How could so many people together could love their work their so much that they do not have any idea whats going on beyond the vessel.
+Now you see a computer laboratory. This place always fascinates people like you. Would you like to go and see in their. You walk into the lab. You notice a computer beeping and a person sitting in front of it. You heard a voice, "So you're finally here." You remained silence questioning.
+
+"Sounds Skeptical ?" He said as you didn't replied to his greet.
+
+
