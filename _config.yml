@@ -1,0 +1,54 @@
+# Site
+name: 'Sanket Chaudhari'
+description: 'Young and Insane Developer'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+baseurl: ''
+email: 'sanket143@zoho.com'
+
+include: ["_pages"]
+permalink: /:title/
+
+# Plugins
+plugins: 
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+  
+authors:
+    sanket:
+      name:           Sanket Chaudhari
+      site:           https://sanket143.github.io
+      avatar:         assets/images/avatar1.jpg
+      bio:            "Hi, I am Sanket Chaudhari. Your friendly neighbourhood programmer."
+      email:          sanket143@zoho.com
+      twitter:        https://twitter.com/sanket_m2
+ 
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: sanket
+      avatar: assets/images/avatar1.jpg
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+      
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Paginate
+paginate: 10
+
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
