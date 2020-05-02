@@ -4,16 +4,19 @@ title:  "My preferred way of organizing files"
 author: sanket
 categories: [ Hacks ]
 image: https://images.pexels.com/photos/6440/magazines-desk-work-workspace.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500
-tags: [leafy, featured]
+tags: [featured]
 ---
 
 I've been to a lot of Operating Systems. Well all of 'em were linux distros
-though. When we do that often it, sometimes we regret of not backing up some
-files and then I started orgnizing my files.
+though. When we change OS more often, sometimes we regret of not backing up some
+files. So I started orgnizing my files, which makes it easier for me to
+know what needs to be backed up.
 
 I've got three folders `Lite`, `Remote`, `Verts`.
 
-`Remote`: For git repos that are remotely available like on GitHub, GitLab or Bit etc.
+`Remote`: For git repos that are remotely available like on GitHub, GitLab or Bit
+ etc. We don't need a backup for this folder, cuz we will have an updated project
+on GitHub or GitLab.
 
 `Verts`: This also contains but with note remote origin to push. Like we might
 have created some projects to fiddle around with some tech or so.
