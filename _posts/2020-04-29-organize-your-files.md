@@ -4,7 +4,6 @@ title:  "My preferred way of organizing files"
 author: sanket
 categories: [ Hacks ]
 image: https://images.pexels.com/photos/6440/magazines-desk-work-workspace.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500
-tags: [featured]
 ---
 
 I've been to a lot of Operating Systems. Well all of 'em were linux distros
