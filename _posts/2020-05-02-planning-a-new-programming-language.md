@@ -15,7 +15,7 @@ You know, kinda like domain specific programming language for web scraping.
 Well, I'd started writing once, the name is [Hi](https://github.com/sanket143/hi).
 I did when I had no idea how to write one. Even, now also I don't. I used
 the book Flex and Yacc to set up some ground and yes was pretty helpful.
-I am going to this again using [interpreterbook.com](https://interpreterbook.com/). I am really
-so positive about this, that this will work out well. Even if it doesn't,
-I'll get to learn so much on the way. Let's see how it'll turn out.
+I am going to this again using [interpreterbook.com](https://interpreterbook.com/)
+and Rust. I am really so positive about this, that this will work out well. Even
+if it doesn't, I'll get to learn so much on the way. Let's see how it'll turn out.
 
