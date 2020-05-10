@@ -19,3 +19,6 @@ I am going to this again using [interpreterbook.com](https://interpreterbook.com
 and Rust. I am really so positive about this, that this will work out well. Even
 if it doesn't, I'll get to learn so much on the way. Let's see how it'll turn out.
 
+Updated on _2020-05-09_
+
+I created lexer for Monkey programming language.
