@@ -3,6 +3,7 @@ layout: post
 title:  "Can't figure out how am I gonna complete parser"
 author: sanket
 categories: [ Life ]
+image: https://images.pexels.com/photos/459319/pexels-photo-459319.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
 tags: [featured]
 ---
 
@@ -14,4 +15,6 @@ rust-nom. Well there are some examples, but are not in the way
 I want. Ugh, it's 00:33 in currently. I just opened that book,
 Writing an Interpreter in Go. I don't wanna go with Go.
 
-Okay, I going for it. 
+Okay, I am thinking of doing this my way, like what I would've done
+if I do not have enough resources to learn from. Build it using
+what I already know, that's what I am gonna do now. 
