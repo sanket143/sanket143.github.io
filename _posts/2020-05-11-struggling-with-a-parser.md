@@ -2,7 +2,7 @@
 layout: post
 title:  "Can't figure out how am I gonna complete parser"
 author: sanket
-categories: [ Life ]
+categories: [ Diary ]
 image: https://images.pexels.com/photos/459319/pexels-photo-459319.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
 tags: [featured]
 ---

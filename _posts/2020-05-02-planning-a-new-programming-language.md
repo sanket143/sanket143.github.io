@@ -2,7 +2,7 @@
 layout: post
 title:  "Am planning to introduce a new programming language"
 author: sanket
-categories: [ Idea ]
+categories: [ Diary, Idea ]
 image: https://images.pexels.com/photos/374918/pexels-photo-374918.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
 tags: [featured]
 ---
