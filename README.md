@@ -1,3 +1,0 @@
-# Sanket Chaudhari
-
-Personal Blog
