@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/sanket143/metheme
-  revision: 3c7298ee494e2616170f5f8ed6a1c1d8d335cacd
+  revision: 20761df3a8c67ed49251cbca1c0ac0a32423890c
   branch: master
   specs:
     metheme (0.1.0)
@@ -78,9 +78,6 @@ DEPENDENCIES
   jekyll (~> 4.1.1)
   jekyll-feed (~> 0.12)
   metheme!
-  tzinfo (~> 1.2)
-  tzinfo-data
-  wdm (~> 0.1.1)
 
 BUNDLED WITH
    2.1.4
