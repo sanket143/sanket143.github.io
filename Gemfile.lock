@@ -1,5 +1,7 @@
-PATH
-  remote: /home/sanket143/Remote/gh-pages/jekyll/metheme
+GIT
+  remote: https://github.com/sanket143/metheme
+  revision: 3c7298ee494e2616170f5f8ed6a1c1d8d335cacd
+  branch: master
   specs:
     metheme (0.1.0)
       jekyll (~> 4.0)
