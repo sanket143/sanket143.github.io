@@ -1,7 +1,5 @@
-GIT
-  remote: https://github.com/sanket143/metheme
-  revision: 20761df3a8c67ed49251cbca1c0ac0a32423890c
-  branch: master
+PATH
+  remote: .
   specs:
     metheme (0.1.0)
       jekyll (~> 4.0)
@@ -59,6 +57,7 @@ GEM
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (4.0.5)
+    rake (12.3.3)
     rb-fsevent (0.10.4)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
@@ -75,9 +74,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (~> 4.1.1)
-  jekyll-feed (~> 0.12)
+  bundler (~> 2.1.4)
   metheme!
+  rake (~> 12.0)
 
 BUNDLED WITH
    2.1.4
