@@ -20,6 +20,7 @@
 
 title: sanket143
 email: chaudharisanket2000@gmail.com
+remote_theme: b2a3e8/jekyll-theme-console
 description: >- # this means to ignore newlines until "baseurl:"
   We don't talk about Sanket.
 baseurl: "" # the subpath of your site, e.g. /blog
